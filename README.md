@@ -44,7 +44,7 @@ Below are the C++ topics and concepts that are covered in this repository:
     ./outputfile
     ```
 
-4. Review and modify the code to enhance your understanding of C++ concepts.   
+4. Review and modify the code to enhance your understanding of C++ concepts.
 
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests. If you'd like to add new topics or improvements to the existing code, make sure to:
